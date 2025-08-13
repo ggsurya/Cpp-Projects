@@ -14,7 +14,7 @@ This collection showcases several small to intermediate console applications dem
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ggsurya/C-Projects.git
+   git clone https://github.com/ggsurya/Cpp-Projects.git
 2. Navigate into the project folder of your choice.
 3. Compile the C++ source files using a C++ compiler (g++, clang++, etc.).
 4. Run the executable and follow on-screen instructions.
