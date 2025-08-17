@@ -12,6 +12,7 @@ This collection showcases several small to intermediate console applications dem
 - [Simple Banking System](https://github.com/ggsurya/Cpp-Projects/blob/main/4.%20Simple%20Banking%20System/README.md) — Create accounts, deposit, withdraw, and show account balances through a menu-driven interface.
 
 ## 📩 Contact
+
 **G.G. Surya**  
 📧 Email: ggsuryaff@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/g-g-surya-5aa9312b4)
