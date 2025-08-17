@@ -14,7 +14,6 @@ A simple two-player command-line Tic-Tac-Toe game implemented in C++. Players ta
 ## Usage
 
 1. Clone the repository or download the source code file.
-
 2. Compile the program with a C++ compiler. For example:
    ```bash
    g++ -o tictactoe tictactoe.cpp
