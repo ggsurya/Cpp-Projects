@@ -13,7 +13,6 @@ A simple command-line program to manage product inventory with functionalities t
 ## Usage
 
 1. Clone the repository or download the source code file.
-
 2. Compile the program with a C++ compiler. For example:
    ```bash
    g++ -o inventory inventory.cpp
