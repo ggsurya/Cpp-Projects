@@ -17,7 +17,6 @@ A simple command-line program to input and display student details including nam
 ## Usage
 
 1. Clone the repository or download the source code file.
-
 2. Compile the program with a C++ compiler. For example:
    ```bash
    g++ -o student_result student_result.cpp
