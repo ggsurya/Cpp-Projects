@@ -1,4 +1,4 @@
-# C++ Projects Collection 🚀
+# ⚡ C++ Projects Collection 🚀
 
 Welcome to my C++ Projects repository!
 
